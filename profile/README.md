@@ -10,7 +10,7 @@ and managing linguistic data.
 We encourage the community to get involved and contribute to the development of Unitex/GramLab. Here are a few ways you can help:
 - **Reporting Issues**: If you find bugs or have suggestions for improvements, please report them on our [issue tracker](https://github.com/UnitexGramLab/unitex-core/issues).
 - **Submitting Pull Requests**: We welcome code contributions! Check out our [contribution guidelines](https://unitexgramlab.org/how-to-contribute) to get started.
-- **Documentation**: Help us improve our documentation. You can contribute by updating existing docs or creating new ones.
+- **Documentation**: Help us improve our [documentation](https://github.com/UnitexGramLab/unitex-doc-usermanual). You can contribute by updating existing docs or creating new ones.
 
 ### 👩‍💻 Useful Resources
 - **Documentation**: Our comprehensive documentation can be found [here](https://unitexgramlab.org/getting-started). It covers everything from installation to advanced usage.
