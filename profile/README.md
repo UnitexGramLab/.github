@@ -13,8 +13,8 @@ We encourage the community to get involved and contribute to the development of 
 - **Documentation**: Help us improve our [documentation](https://github.com/UnitexGramLab/unitex-doc-usermanual). You can contribute by updating existing docs or creating new ones.
 
 ### 👩‍💻 Useful Resources
-- **Documentation**: Our comprehensive documentation can be found [here](https://unitexgramlab.org/getting-started). It covers everything from installation to advanced usage.
+- **Documentation**: Our comprehensive documentation can be found [here](https://unitexgramlab.org/how-to-contribute). It covers everything from installation to advanced usage.
 - **User Forum**: Join the discussion and ask questions on our [forum](http://forum.unitexgramlab.org/).
-- **Tutorials**: We offer a variety of tutorials to help you get started with Unitex/GramLab. Check them out [here](https://unitexgramlab.org/getting-started).
+- **Tutorials**: We offer some tutorials to help you get started with Unitex/GramLab. Check them out [here](https://unitexgramlab.org/fr/blog/announcements/tutorials-in-english).
 
 Thank you for being part of our community and helping us make Unitex/GramLab better for everyone!
